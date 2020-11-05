@@ -1244,7 +1244,8 @@ This simulator accomplishes many things. As part of the project, Fabrikam city w
 
 Additionally, all telemetry obtained from the bus sensors is saved in local blob storage. The storage module is responsible for automatically uploading this data to the cloud when a feasible internet connection is established.
 
-1. Open Visual Studio Code.
+1. Open Visual Studio Code and install [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) and [Azure IoT Edge extension](https://docs.docker.com/engine/installation/) for Visual Studio Code. 
+
 
 2. Select **File Open Folder**...
 
